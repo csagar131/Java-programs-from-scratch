@@ -1,0 +1,13 @@
+import java.lang.*;
+import java.util.*;
+public class CheckPalindrom
+{
+	public static void main(String args[])
+ 	{
+	 Scanner sc = new Scanner(System.in);
+	 System.out.println("enter string");
+	 int str = sc.readLine();
+	 System.out.println("your string is="+str);
+	}
+	
+}
